@@ -1,4 +1,4 @@
-// Author: Colter Cotten
+// Author:      Colter Cotten
 // Description: This program reads a radius value from the standard input device
 //              and uses the radius to compute the area and circumference of a 
 //              circle.
